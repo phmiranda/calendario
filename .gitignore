@@ -11,5 +11,8 @@ node_modules/
 vendor/
 
 # comentário.
+public/default.php
+
+# comentário.
 *.log
 *.iml
