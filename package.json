@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/phmiranda/calendario#readme",
   "dependencies": {
-    "bootstrap": "^3.4.1",
-    "jquery": "^3.4.1"
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
   }
 }
